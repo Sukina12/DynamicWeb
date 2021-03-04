@@ -24,3 +24,4 @@ else
     
 
      }
+ alert ("Thank You for Your Support!! Delivery Available");
