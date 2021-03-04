@@ -2,7 +2,7 @@ alert ("Welcome To Our Cafe");
 
 var order = prompt("Enter Your Order For Brice:");
 
-if (order == "cofee")
+if (order == "coffee")
 {alert ("$4.25") }
 
 else 
@@ -24,5 +24,5 @@ else
     
 
      }
-     
+
  alert ("Thank You for Your Support!! Delivery Available");
